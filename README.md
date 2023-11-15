@@ -47,6 +47,13 @@ Swagger :Swagger est un ensemble d'outils open source qui aide les développeurs
 # Par postman 
 ![image](https://github.com/simo-laaouibi/Examen/assets/148088062/ba72ecc4-b3b7-46e5-babc-9c88a92073ee)
 
+# supprimer 
+![image](https://github.com/simo-laaouibi/Examen/assets/148088062/c141e7d9-2ae1-4415-832c-b20304faede0)
+
+![image](https://github.com/simo-laaouibi/Examen/assets/148088062/efa17083-968f-48b1-a69c-02d7ebe152d3)
+
+
+
 # Conclusion 
 
 Ce projet montre comment la combinaison de technologies telles que Spring Boot, Swagger et Postman peut rationaliser la gestion des étudiants dans un environnement académique. Il offre une base solide pour développer davantage cette application en ajoutant de nouvelles fonctionnalités, en améliorant la sécurité, ou en l'adaptant aux besoins spécifiques de l'institution éducative.
